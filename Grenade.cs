@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * This is old and I have made a better version
+ */
 public class Grenade : MonoBehaviour
 {
     public float explosionDelay;
